@@ -1,16 +1,22 @@
-### Hi there 👋
+# 👋 Hey there! 
 
-<!--
-**ekin-kar/ekin-kar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">I'm Ekin, a Frontend Developer and final year Computer Engineering student. <br>
+      Here's a bit about me:  </h2></summary>
+  </ul>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 🔭 Currently working with **React, Next.js, and Node.js..**
+ - 🌱 Currently learning **TypeScript and PostgreSQL..**
+ - 📫 Reach out to me at [info@ekinkar.com](mailto:info@ekinkar.com) to connect!
+
+## 💻 Technologies I Use
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,html,css,js,mongodb,mysql,sass,bootstrap,materialui," />
+  </a>
+</p>  
+
+
