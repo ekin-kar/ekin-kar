@@ -15,7 +15,7 @@
 ## 💻 Technologies I Use
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,html,css,js,mongodb,mysql,sass,bootstrap,materialui," />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,redux,nodejs,express,html,css,js,mongodb,mysql,sass,bootstrap,materialui," />
   </a>
 </p>  
 
