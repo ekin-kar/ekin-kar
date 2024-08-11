@@ -3,7 +3,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">I'm Ekin, a Frontend Developer and final year Computer Engineering student. <br>
+    <summary><h2 style="display: inline-block">I'm Ekin, a Frontend Developer <br>
       Here's a bit about me:  </h2></summary>
   </ul>
 </div>
